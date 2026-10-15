@@ -2311,3 +2311,20 @@ dependencies {
 },
 
 }
+
+
+
+"Practical 11 :Enterprise Data Access via Internet (REST API) • Call a public API (or provide a local JSON/endpoint) • Fetch JSON and display in UI • Handle loading/error states Deliverable • API response rendered + error handling screenshot":
+    "/downloads/Pract11.zip",
+
+  "Practical 12 :Graphics & Custom Views + Canvas • Create a custom view that draws: o A circle/rectangle based on user input o Or a simple “touch paint” canvas • Use touch events to update drawing Deliverable • Custom view screenshot + brief code explanation":
+    "/downloads/Pract12.zip",
+  
+    "Practical 13 :Animation + Multimedia (Audio Playback) • Add animation: o Fade/scale/translate (Property Animation) • Add audio playback using MediaPlayer: o Play / Pause / Stop buttons Deliverable • Video demo (or screenshots) of animation + audio controls":
+    "/downloads/Pract13.zip",
+  
+    "Practical 14 :Location Awareness / Sensors + Native Hardware Access (choose one if lab time is tight) • Option A: Accelerometer demo o Display x/y/z values, plot update on UI • Option B: Location awareness o Get last known location and show coordinates Deliverable • Sensor/location output shown clearly in UI":
+    "/downloads/Pract14.zip",
+  
+    "Practical 15 :Testing + Packaging/Signing + Market Prep (Case Demo App) 1. Testing o Write a simple JUnit local test for business logic (e.g., prime check / calculator) o Optional: instrumentation test skeleton (if time) 2. Debugging o Demonstrate Logcat + breakpoints (short walk-through) 3. Release prep o Increment versionCode/versionName o Generate signed APK/AAB (debug keystore is fine for practice) 4. Mini Case Study o Students combine features from earlier labs into one coherent “Mini App” demo plan Deliverable • Signed APK/AAB + JUnit report + short case study summary":
+    "/downloads/15_Calculator.zip",
